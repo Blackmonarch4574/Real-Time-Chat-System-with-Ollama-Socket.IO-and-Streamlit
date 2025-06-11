@@ -1,6 +1,8 @@
 
 
-# 🧠 Real-Time LLM Chat App with Ollama + Streamlit + Socket.IO
+# 🧠 Real-Time-Chat-System-with-Ollama-Socket.IO-and-Streamlit
+Real-Time Chat System with Ollama, Socket.IO, and Streamlit (Dockerized)
+
 
 ## Features
 - Run a **local LLM** using Ollama (supports models like LLaMA 3)
